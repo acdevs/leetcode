@@ -1,5 +1,3 @@
-package leetcode;
-
 public class P0007_ReverseInteger {
     public static void main(String[] args) {
         int x = -2147483648;

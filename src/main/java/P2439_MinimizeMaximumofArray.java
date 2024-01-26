@@ -1,5 +1,3 @@
-package leetcode;
-
 public class P2439_MinimizeMaximumofArray {
     public static void main(String[] args) {
         int[] nums = {3,7,1,6};

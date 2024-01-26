@@ -5,7 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b81d8ae-f846-4f7b-baf3-dc2eba159a3e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/P0007_ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/P0007_ReverseInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/P0012_IntegertoRoman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/P0012_IntegertoRoman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/P0020_ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/P0020_ValidParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/P0028_FindtheIndexoftheFirstOccurrenceinString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/P0028_FindtheIndexoftheFirstOccurrenceinString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/P0037_SudokuSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/P0037_SudokuSolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/P0071_SimplifyPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/P0071_SimplifyPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/P0121_BestTimetoBuyandSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/P0121_BestTimetoBuyandSellStock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/P0268_MissingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/P0268_MissingNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/P0273_IntegertoEnglishWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/P0273_IntegertoEnglishWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/P0844_BackspaceStringCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/P0844_BackspaceStringCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/P0881_BoatstoSavePeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/P0881_BoatstoSavePeople.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/P0946_ValidateStackSequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/P0946_ValidateStackSequences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/P2133_ContainsAllNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/P2133_ContainsAllNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/P2300_PairsofSpellsandPotions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/P2300_PairsofSpellsandPotions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/P2390_RemovingStarsFromaString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/P2390_RemovingStarsFromaString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/P2405_OptimalPartitionofString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/P2405_OptimalPartitionofString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/P2439_MinimizeMaximumofArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/P2439_MinimizeMaximumofArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,16 +37,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2OPUaEVLbaJIAjl7TeEnPy9wzv5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -37,20 +55,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;X:/__codes__/leetcode&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.P0037_SudokuSolver.executor": "Run",
+    "Application.P0071_SimplifyPath.executor": "Run",
+    "Application.P0202_HappyNumber.executor": "Run",
+    "Application.P0258_AddDigits.executor": "Run",
+    "Application.P0273_IntegertoEnglishWords.executor": "Run",
+    "Application.P0881_BoatstoSavePeople.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "X:/__codes__/leetcode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="P0037_SudokuSolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P0037_SudokuSolver" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.P0037_SudokuSolver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-249ae16d76d6-36550cda" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -80,6 +127,22 @@
       <workItem from="1682580959286" duration="4493000" />
       <workItem from="1682863006032" duration="597000" />
       <workItem from="1682868103647" duration="50000" />
+      <workItem from="1682869802046" duration="190000" />
+      <workItem from="1682972177863" duration="20000" />
+      <workItem from="1683046990895" duration="75000" />
+      <workItem from="1683130465467" duration="725000" />
+      <workItem from="1683630481486" duration="64000" />
+      <workItem from="1683660846483" duration="971000" />
+      <workItem from="1684007718550" duration="92000" />
+      <workItem from="1684041044885" duration="6000" />
+      <workItem from="1684252509840" duration="36000" />
+      <workItem from="1689875378577" duration="52000" />
+      <workItem from="1694208697713" duration="1236000" />
+      <workItem from="1694439160094" duration="75000" />
+      <workItem from="1694439347170" duration="596000" />
+      <workItem from="1694459229694" duration="249000" />
+      <workItem from="1699688179829" duration="46000" />
+      <workItem from="1706300872025" duration="1323000" />
     </task>
     <servers />
   </component>

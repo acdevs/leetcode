@@ -1,5 +1,3 @@
-package leetcode;
-
 public class P0012_IntegertoRoman {
     public static void main(String[] args) {
         System.out.println(intToRoman(456));

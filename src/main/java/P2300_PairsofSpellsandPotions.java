@@ -1,5 +1,3 @@
-package leetcode;
-
 import java.util.Arrays;
 
 public class P2300_PairsofSpellsandPotions {

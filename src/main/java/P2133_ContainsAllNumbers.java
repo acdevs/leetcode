@@ -1,5 +1,3 @@
-package leetcode;
-
 public class P2133_ContainsAllNumbers {
     public static void main(String[] args) {
         int[][] arr = {{2,4,2},{3,1,2},{2,3,1}};

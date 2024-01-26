@@ -1,5 +1,3 @@
-package leetcode;
-
 public class P0268_MissingNumbers {
     public static void main(String[] args) {
 //        int[] arr = {3,6,4,2,8,5,7,0,1};

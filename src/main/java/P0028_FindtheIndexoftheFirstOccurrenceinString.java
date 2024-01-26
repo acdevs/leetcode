@@ -1,5 +1,3 @@
-package leetcode;
-
 public class P0028_FindtheIndexoftheFirstOccurrenceinString {
     public static void main(String[] args) {
         String haystack = "mississipi";

@@ -1,5 +1,3 @@
-package leetcode;
-
 public class P2405_OptimalPartitionofString {
     public static void main(String[] args) {
         String str = "ababc";

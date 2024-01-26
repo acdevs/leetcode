@@ -36,9 +36,9 @@ public class P0037_SudokuSolver {
                         {'.', '.', '.', '2', '7', '5', '9', '.', '.'}};
 
 
-        solveSudoku(board);
+        solveSudoku(board1);
 //        solve(board2);
-        for (char[] row : board2) {
+        for (char[] row : board1) {
             System.out.println(Arrays.toString(row));
         }
     }

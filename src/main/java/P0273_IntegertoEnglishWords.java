@@ -1,5 +1,3 @@
-package leetcode;
-
 public class P0273_IntegertoEnglishWords {
     public static void main(String[] args) {
         int num = 2145893475;

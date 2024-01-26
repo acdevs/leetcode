@@ -1,5 +1,3 @@
-package leetcode;
-
 import java.util.Stack;
 
 public class P0946_ValidateStackSequences {
